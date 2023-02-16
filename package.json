@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --testPathPattern=/Exercises",
-    "test-convertTemp": "jest --testPathPattern=Exercises/convertTemp.test.js",
     "test-missingLetter": "jest --testPathPattern=Exercises/missingLetter.test.js",
     "test-timeSum": "jest --testPathPattern=Exercises/timeSum.test.js"
   },
